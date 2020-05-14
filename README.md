@@ -6,22 +6,22 @@ Content
 
 Feature detection
 
--Edge detection
+  -Edge detection
 
--Hough transform
+  -Hough transform
 
--Contour detection
+  -Contour detection
 
--Corner detection
+  -Corner detection
 
--SIFT
+  -SIFT
 
--SURF
+  -SURF
 
--Marker detection
+  -Marker detection
 
--Face detection
+  -Face detection
 
 Object tracking
 
--8 object tracking algorithms
+  -8 object tracking algorithms
