@@ -1,4 +1,4 @@
-# MTRN4110_21T2_Lecture_Vision_II
+# MTRN4110_Lecture_Vision_II
 
 OpenCV examples for MTRN4110 21T2 Lecture Vision II (Examples adapted from [OpenCV-Python Tutorials](https://docs.opencv.org/3.4.2/d6/d00/tutorial_py_root.html))
 
